@@ -4,7 +4,7 @@ Expressões regulares testadas no site http://regexr.com/
 
 ## Listas de Expressões de crawling de HTML
 
-**Recupera conteudo das propriedades href e src:**
+**Recupera conteúdo das propriedades `HREF` e `SRC`:**
 ```txt
 (?:href|src|HREF|SRC)=(?:"|')(.+?)(?:"|')
 ```
