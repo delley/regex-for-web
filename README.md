@@ -1,4 +1,4 @@
-# regex-for-web-example
+# regex-for-web
 
 Expressões regulares testadas no site http://regexr.com/
 
