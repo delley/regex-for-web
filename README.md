@@ -2,7 +2,7 @@
 
 Expressões regulares testadas no site http://regexr.com/
 
-## Listas de Expressões de raspagem(scraping) em HTML
+## Lista de Expressões de raspagem(scraping) em HTML
 
 **Recupera conteúdo das propriedades `HREF` e `SRC`:**
 ```txt
